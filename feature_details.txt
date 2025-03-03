@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Updated feature details: 0Auth 2.0 with two-factor authentication
+=======
+Feature details: Implementing user
+
+This feature will allow users to sign up and authenticate via Google.
+>>>>>>> feature-update 
