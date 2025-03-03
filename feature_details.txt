@@ -1,0 +1,1 @@
+Updated feature details: 0Auth 2.0 with two-factor authentication
