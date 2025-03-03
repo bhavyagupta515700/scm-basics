@@ -1,0 +1,1 @@
+This project is a sample repository to demonstrate Git operations such as branching,merging and conflict resolution.
